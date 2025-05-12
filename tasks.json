@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Crear un proyecto en python ",
+    "done": false
+  },
+  {
+    "title": "Estudiar django ",
+    "done": true
+  },
+  {
+    "title": "hola",
+    "status": "not_done"
+  },
+  {
+    "title": "como estas",
+    "status": "not_done"
+  },
+  {
+    "title": "adios",
+    "status": "not_done"
+  }
+]
